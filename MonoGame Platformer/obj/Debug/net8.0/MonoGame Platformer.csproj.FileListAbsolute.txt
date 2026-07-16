@@ -1,0 +1,40 @@
+C:\Users\artig\source\repos\MonoGame Platformer\MonoGame Platformer\bin\Debug\net8.0\Content\player.xnb
+C:\Users\artig\source\repos\MonoGame Platformer\MonoGame Platformer\bin\Debug\net8.0\MonoGame Platformer.exe
+C:\Users\artig\source\repos\MonoGame Platformer\MonoGame Platformer\bin\Debug\net8.0\MonoGame Platformer.deps.json
+C:\Users\artig\source\repos\MonoGame Platformer\MonoGame Platformer\bin\Debug\net8.0\MonoGame Platformer.runtimeconfig.json
+C:\Users\artig\source\repos\MonoGame Platformer\MonoGame Platformer\bin\Debug\net8.0\MonoGame Platformer.dll
+C:\Users\artig\source\repos\MonoGame Platformer\MonoGame Platformer\bin\Debug\net8.0\MonoGame Platformer.pdb
+C:\Users\artig\source\repos\MonoGame Platformer\MonoGame Platformer\bin\Debug\net8.0\MonoGame.Framework.dll
+C:\Users\artig\source\repos\MonoGame Platformer\MonoGame Platformer\bin\Debug\net8.0\NVorbis.dll
+C:\Users\artig\source\repos\MonoGame Platformer\MonoGame Platformer\bin\Debug\net8.0\runtimes\android-arm\native\libopenal.so
+C:\Users\artig\source\repos\MonoGame Platformer\MonoGame Platformer\bin\Debug\net8.0\runtimes\android-arm64\native\libopenal.so
+C:\Users\artig\source\repos\MonoGame Platformer\MonoGame Platformer\bin\Debug\net8.0\runtimes\android-x64\native\libopenal.so
+C:\Users\artig\source\repos\MonoGame Platformer\MonoGame Platformer\bin\Debug\net8.0\runtimes\android-x86\native\libopenal.so
+C:\Users\artig\source\repos\MonoGame Platformer\MonoGame Platformer\bin\Debug\net8.0\runtimes\ios-arm64\native\libopenal.a
+C:\Users\artig\source\repos\MonoGame Platformer\MonoGame Platformer\bin\Debug\net8.0\runtimes\iossimulator-arm64\native\libopenal.a
+C:\Users\artig\source\repos\MonoGame Platformer\MonoGame Platformer\bin\Debug\net8.0\runtimes\iossimulator-x64\native\libopenal.a
+C:\Users\artig\source\repos\MonoGame Platformer\MonoGame Platformer\bin\Debug\net8.0\runtimes\linux-arm64\native\libopenal.so
+C:\Users\artig\source\repos\MonoGame Platformer\MonoGame Platformer\bin\Debug\net8.0\runtimes\linux-x64\native\libopenal.so
+C:\Users\artig\source\repos\MonoGame Platformer\MonoGame Platformer\bin\Debug\net8.0\runtimes\osx\native\libopenal.dylib
+C:\Users\artig\source\repos\MonoGame Platformer\MonoGame Platformer\bin\Debug\net8.0\runtimes\win-x64\native\openal.dll
+C:\Users\artig\source\repos\MonoGame Platformer\MonoGame Platformer\bin\Debug\net8.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\artig\source\repos\MonoGame Platformer\MonoGame Platformer\bin\Debug\net8.0\runtimes\osx\native\libSDL2-2.0.0.dylib
+C:\Users\artig\source\repos\MonoGame Platformer\MonoGame Platformer\bin\Debug\net8.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\artig\source\repos\MonoGame Platformer\MonoGame Platformer\obj\Debug\net8.0\mgcb.tool.restore
+C:\Users\artig\source\repos\MonoGame Platformer\MonoGame Platformer\obj\Debug\net8.0\MonoGame Platformer.csproj.AssemblyReference.cache
+C:\Users\artig\source\repos\MonoGame Platformer\MonoGame Platformer\obj\Debug\net8.0\MonoGame Platformer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artig\source\repos\MonoGame Platformer\MonoGame Platformer\obj\Debug\net8.0\MonoGame Platformer.AssemblyInfoInputs.cache
+C:\Users\artig\source\repos\MonoGame Platformer\MonoGame Platformer\obj\Debug\net8.0\MonoGame Platformer.AssemblyInfo.cs
+C:\Users\artig\source\repos\MonoGame Platformer\MonoGame Platformer\obj\Debug\net8.0\MonoGame Platformer.csproj.CoreCompileInputs.cache
+C:\Users\artig\source\repos\MonoGame Platformer\MonoGame Platformer\obj\Debug\net8.0\MonoGame.3468B6DC.Up2Date
+C:\Users\artig\source\repos\MonoGame Platformer\MonoGame Platformer\obj\Debug\net8.0\MonoGame Platformer.dll
+C:\Users\artig\source\repos\MonoGame Platformer\MonoGame Platformer\obj\Debug\net8.0\refint\MonoGame Platformer.dll
+C:\Users\artig\source\repos\MonoGame Platformer\MonoGame Platformer\obj\Debug\net8.0\MonoGame Platformer.pdb
+C:\Users\artig\source\repos\MonoGame Platformer\MonoGame Platformer\obj\Debug\net8.0\MonoGame Platformer.genruntimeconfig.cache
+C:\Users\artig\source\repos\MonoGame Platformer\MonoGame Platformer\obj\Debug\net8.0\ref\MonoGame Platformer.dll
+C:\Users\artig\source\repos\MonoGame Platformer\MonoGame Platformer\bin\Debug\net8.0\Content\enemy_frame_0.xnb
+C:\Users\artig\source\repos\MonoGame Platformer\MonoGame Platformer\bin\Debug\net8.0\Content\player_frame_0.xnb
+C:\Users\artig\source\repos\MonoGame Platformer\MonoGame Platformer\bin\Debug\net8.0\Content\tileset.xnb
+C:\Users\artig\source\repos\MonoGame Platformer\MonoGame Platformer\bin\Debug\net8.0\runtimes\win-arm64\native\openal.dll
+C:\Users\artig\source\repos\MonoGame Platformer\MonoGame Platformer\bin\Debug\net8.0\runtimes\linux-arm64\native\libSDL2-2.0.so.0
+C:\Users\artig\source\repos\MonoGame Platformer\MonoGame Platformer\bin\Debug\net8.0\runtimes\win-arm64\native\SDL2.dll

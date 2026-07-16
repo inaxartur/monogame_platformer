@@ -1,0 +1,5 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/artig/source/repos/MonoGame Platformer/MonoGame Platformer/Content/enemy_frame_0.png","C:/Users/artig/source/repos/MonoGame Platformer/MonoGame Platformer/Content/bin/DesktopGL/Content/enemy_frame_0.xnb","TextureProcessor","Texture2DContent",202,1109,0.0693542
+"C:/Users/artig/source/repos/MonoGame Platformer/MonoGame Platformer/Content/main_char.png","C:/Users/artig/source/repos/MonoGame Platformer/MonoGame Platformer/Content/bin/DesktopGL/Content/player.xnb","TextureProcessor","Texture2DContent",451,4181,0.0729123
+"C:/Users/artig/source/repos/MonoGame Platformer/MonoGame Platformer/Content/player_frame_0.png","C:/Users/artig/source/repos/MonoGame Platformer/MonoGame Platformer/Content/bin/DesktopGL/Content/player_frame_0.xnb","TextureProcessor","Texture2DContent",204,1109,0.0022036
+"C:/Users/artig/source/repos/MonoGame Platformer/MonoGame Platformer/Content/tileset.png","C:/Users/artig/source/repos/MonoGame Platformer/MonoGame Platformer/Content/bin/DesktopGL/Content/tileset.xnb","TextureProcessor","Texture2DContent",637,4181,0.0015468
